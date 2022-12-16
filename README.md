@@ -14,3 +14,5 @@ I am a Frontend Developer with industry experience building responsive and mobil
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=barehera&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://komarev.com/ghpvc/?username=barehera)
