@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Frontend Developer with industry experience building responsive and mobile-first websites and web applications for local businesses and start-up companies. I specialize in JavaScript and have professional experience working with React. I also have experience working with Next, TypeScript, and Firebase.
+A developer with expertise and a love for developing intuitive and user-friendly web applications. Proficient in modern front-end technologies. Strong ability to translate design concepts into elegant and functional user interfaces.
 
 
 ## 🌐 Socials:
